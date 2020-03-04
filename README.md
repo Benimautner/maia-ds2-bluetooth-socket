@@ -13,5 +13,6 @@ Raspberry Pi:
     
   - Open a bluetooth connection to the Amplifier from your Raspberry:
     - Either using the GUI or using rfcomm
+    - a more detailed explanation for rfcomm will come eventually.
     
   - Run the example and check if it is working.
