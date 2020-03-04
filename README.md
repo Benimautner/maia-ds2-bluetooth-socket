@@ -8,11 +8,10 @@ I used a Raspberry Pi but theoretically it should work on any device.
 
 Raspberry Pi:
 
-  -Prerequisites:
-  
-    -bluetooth (pip3 install bluetooth)
-  -Connect the Amplifier to your Raspberry:
-  
-    -Either using the GUI or using rfcomm
+  - Prerequisites:
+    - bluetooth (pip3 install bluetooth)
     
-  -Run the example and check if it is working.
+  - Open a bluetooth connection to the Amplifier from your Raspberry:
+    - Either using the GUI or using rfcomm
+    
+  - Run the example and check if it is working.
